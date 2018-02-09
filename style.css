@@ -1,0 +1,182 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: #D8D9D7;
+}
+.anime li{
+	padding: 5px;
+	margin: 5px;
+	font-size: 20px;
+	color: #fff;
+	list-style: none;
+}
+#header{
+	width: 100%;
+	height: 250px;
+	background-image:url('img/header.jpg');
+	background-size: 100% 250px;
+	background-repeat: no-repeat;
+}
+#header h1{
+	padding-left: 30px;
+	padding-top: 130px;
+	margin: 4px;
+	color:#fff;
+	font-size: 55px;
+}
+#nav{
+	width: 100%;
+	height: 30px;
+	background-color: #C9C9C9;
+}
+#nav a{
+	padding: 0px 30px;
+	text-decoration: none;
+	color:black;
+	float: left;
+	display: block;
+	font-size: 22px;
+	height: 22px;
+}
+#nav a:hover{
+	background-color: #858585;
+	color: #fff;
+	height: 30px;
+	padding-top:0px;
+}
+#aside{
+	width: 60%;
+	font-size: 20px; 
+	padding: 10px;
+	margin:10px;
+	float: left;
+}
+#sidebar{
+	width: 30%;
+	font-size: 20px; 
+	padding: 10px;
+	margin:10px;
+	float: left;
+}
+#footer{
+	width: 100%;
+	height: 40px;
+	background-color: orange;
+}
+.logo{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: red;
+	float: right;
+}
+#footer p{
+	text-align: center;
+	font-size: 25px;
+	color: black;
+}
+.clear{
+	content: "";
+	display: table;
+	clear: both;
+}
+#konteiner{
+	width: 100%;
+	padding: 10px;
+	margin: 5px 5px;
+	background-color: #87969C;
+}
+.anime{
+	background-color: #3B3B3B;
+	padding: 10px;
+	margin:4px;
+	border-radius: 10px;
+	float: left;
+	width:31%;
+}
+.main-p{
+	background-image: url('https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/2188607/580/386/m1/fpnw/wm0/background2_cm-.jpg?1485447078&s=61635f2b90cc475721581c5a4fbeceb6');
+	width: 100%;
+	height: 450px;
+}
+#main-p-centar{
+	margin: auto;
+}
+.main-p h4{
+	text-align: center;
+	padding: 4px;
+}
+.p1{
+	width: 35%;
+	border-radius: 10px;
+	margin: 10px 5px;
+	padding: 5px;
+	background-color: #B6B7B8;
+	float: left;
+	text-align: center;
+}
+.button{
+	width: 100px;
+	padding: 5px;
+	margin: 3px;
+	border-radius: 10px;
+	border:2px solid black;
+	text-align: center;
+}
+.wrapper{
+	margin: 0px auto;
+	width: 80%;
+	height: 600px;
+	border:2px solid black;
+	border-radius: 20px;
+	background-color: #616362;
+}
+.body1{
+	margin: 10px auto;
+	width: 80%;
+	height: 550px;
+	border:2px solid black;
+	border-radius: 20px;
+	background-color: #969696;
+	text-align: center;
+	font-size: 25px;
+	color: #fff;
+}
+.body2{
+	margin: 10px auto;
+	width: 80%;
+	border:2px solid black;
+	border-radius: 20px;
+	background-color: #C9C9C9;
+}
+.body3{
+	margin: 10px auto;
+	width: 50%;
+	height: 450px;
+	border-radius: 50%;
+	background:#fff;
+	background-image:url('img/slika.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.steinberg{
+	font-size: 25px;
+    text-decoration: none;
+	color: black;
+}
+.text2{
+	text-align: center;
+	font-size: 20px;
+	background:yellow;
+	color: black;
+	border-radius: 20px;
+	border:5px solid #fff;
+	padding: 10px;
+}
+.slicica{
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
